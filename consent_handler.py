@@ -32,7 +32,7 @@ logger = logging.getLogger(__name__)
 import json
 
 AUTOCONSENT_RULES_PATH = os.path.join(
-    os.path.dirname(os.path.abspath(__file__)), "node_modules", "@duckduckgo", "autoconsent", "rules", "rules.json"
+    os.path.dirname(os.path.abspath(__file__)), "lib", "rules.json"
 )
 
 # Load rules once at module import time — no per-page overhead
