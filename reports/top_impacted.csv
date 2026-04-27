@@ -1,0 +1,21 @@
+URL,Load delta (ms),Request delta,Console Errors,Missing features,Consent status,CMP
+uol.com.br,42876.300000071526,1336,254,none,handled,didomi
+washingtonpost.com,27345.100000023842,1566,365,video_embed,handled,didomi
+nypost.com,23608.0,1235,177,none,handled,didomi
+globo.com,22047.799999952316,724,228,none,handled,didomi
+sophos.com,8895.799999952316,112,47,none,handled,didomi
+merriam-webster.com,8284.899999976158,778,213,none,handled,didomi
+pubmatic.com,7461.700000047684,44,20,none,handled,didomi
+wired.com,7181.600000023842,641,248,none,handled,didomi
+zoom.com,6143.099999904633,190,66,none,handled,didomi
+okta.com,6017.300000071526,320,106,none,handled,didomi
+slack.com,5627.800000071526,126,44,none,handled,didomi
+webex.com,5546.299999952316,218,12,none,handled,didomi
+163.com,5441.499999880791,268,0,none,handled,didomi
+docker.com,4173.499999880791,203,51,none,handled,didomi
+live.com,3785.7999999523163,88,45,none,handled,didomi
+zoom.us,3164.0999999046326,159,66,none,handled,didomi
+nytimes.com,3040.5,91,17,none,handled,didomi
+sina.com.cn,2717.6999999284744,190,83,none,handled,didomi
+independent.co.uk,2580.6999999284744,1868,415,none,handled,didomi
+forbes.com,2517.7000000476837,402,63,none,handled,didomi

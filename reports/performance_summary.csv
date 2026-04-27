@@ -1,0 +1,8 @@
+Metric,Mean (all),Mean (necessary),Mean delta,Delta %,Median (all),Median (necessary)
+DOM Content Loaded (ms),529.9,860.7,-330.8,-38.4,264.9,445.1
+TTFB (ms),278.1,240.3,37.9,15.8,81.4,86.0
+Load time (ms),1694.1,2172.2,-478.0,-22.0,481.1,862.4
+HTTP requests,319.0,219.8,99.1,45.1,195.0,165.5
+Bytes transferred,10550704.7,11843288.8,-1292584.1,-10.9,4493664.0,3492990.0
+Cookies set,44.5,24.1,20.4,84.9,11.0,7.0
+Console errors,9.8,11.4,-1.5,-13.6,3.0,4.0

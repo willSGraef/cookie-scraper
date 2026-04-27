@@ -1,0 +1,13 @@
+# Core browser automation
+playwright>=1.44.0
+
+# Data processing and analytics
+pandas>=2.0.0
+matplotlib>=3.8.0
+
+# Visual diff (optional — install separately if screenshots are enabled)
+pixelmatch>=0.3.0
+Pillow>=10.0.0
+
+# Install Playwright browsers after pip install:
+#   playwright install chrome
